@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio Vetor Media Altura\Exercicio Vetor Media Altura\bin\Debug\Exercicio Vetor Media Altura.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio Vetor Media Altura\Exercicio Vetor Media Altura\bin\Debug\Exercicio Vetor Media Altura.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio Vetor Media Altura\Exercicio Vetor Media Altura\bin\Debug\Exercicio Vetor Media Altura.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio Vetor Media Altura\Exercicio Vetor Media Altura\obj\Debug\Exercicio Vetor Media Altura.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio Vetor Media Altura\Exercicio Vetor Media Altura\obj\Debug\Exercicio Vetor Media Altura.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio Vetor Media Altura\Exercicio Vetor Media Altura\obj\Debug\Exercicio Vetor Media Altura.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio Vetor Media Altura\Exercicio Vetor Media Altura\obj\Debug\Exercicio Vetor Media Altura.pdb
